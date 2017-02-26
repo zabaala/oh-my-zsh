@@ -21,3 +21,4 @@ $ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools
 6. Open iTerm2 preferences, goto `Profile > text > Font > Change Font` and click in Meslo Collection and Select "Meslo LG L for powerline" family, after select a regular typeface, define font size and adjust vertical/horizontal character spacing.
 
 On the end of these processes, the appearance of your iterm2 must be like this:
+![alt text](https://github.com/zabaala/oh-my-zsh/blob/master/my-iterm2-appearence.png "Customized iTerm2 appearence")
